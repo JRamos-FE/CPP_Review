@@ -8,6 +8,7 @@
 		"files.associations": {
 			"iostream": "cpp",
 			"ostream": "cpp"
-		}
+		},
+		"editor.acceptSuggestionOnEnter": "on"
 	}
 }

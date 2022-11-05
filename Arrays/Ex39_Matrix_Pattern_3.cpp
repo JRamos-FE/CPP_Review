@@ -3,12 +3,13 @@
 #include <math.h>
 
 using namespace std;
-/*Draw a pattern of * for given dimensions given below
-    * * * * *
-     * * * *
+/*
+Draw a pattern of * for given dimensions given below
+          *
+        * *
       * * *
-       * *
-        *
+    * * * *
+  * * * * *
 */
 int main()
 {   
